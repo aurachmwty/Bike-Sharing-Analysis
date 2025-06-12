@@ -1,5 +1,7 @@
 # Bike Sharing Dashboard
 
+Sebuah Proyek akhir dari modul Analisis Data Menggunakan Python dari platform Dicoding 
+
 ## Deskripsi Proyek
 
 Proyek ini adalah dashboard interaktif berbasis Streamlit yang menganalisis pola penggunaan sepeda berdasarkan dataset Bike Sharing. Dashboard ini menyajikan berbagai visualisasi untuk menggali wawasan terkait pola penyewaan sepeda berdasarkan musim, cuaca, serta tren penggunaan harian dan jam tertentu.
