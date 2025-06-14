@@ -37,7 +37,6 @@ Dataset yang digunakan berasal dari Bike Sharing Dataset, dengan dua file utama:
 - Buka terminal atau command prompt, masuk ke direktori proyek.
 
 - Jalankan perintah berikut untuk memulai Streamlit:
-
-- streamlit run dashboard.py
+  streamlit run dashboard.py
 
 - Dashboard akan terbuka di browser dengan alamat http://localhost:8501.
